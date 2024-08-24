@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Javascript Full Stack Developer<br>👯 I’m looking for React.js Developer Job<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java + Springboot<br>💬 Ask me about anything javascript
+🔭 I’m currently working as Javascript Full Stack Developer<br>👯 I’m looking for React.js Developer Job<br>🌱 I’m currently learning Java + Springboot<br>💬 Ask me about anything javascript
 
 
 ## 🌐 Socials:
